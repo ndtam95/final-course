@@ -13,6 +13,10 @@
 </head>
 <body>
   <div class="container">
+    <?php include "../../menucon.php" ?>
+    <script src="../../../public/js/jquery.min.js"></script>
+<script src="../../../public/js/bootstrap.min.js"></script>
+<script src="../../../public/js/bootstrap.bundle.min.js"></script>
   <h2>Danh sách</h2>
   <div class="row">
     <i class="flash"><?php if(isset($_SESSION["flash"])) echo $_SESSION["flash"]; ?></i>
