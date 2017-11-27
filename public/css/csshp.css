@@ -1,0 +1,115 @@
+.ftr1{
+	background: #8b8b8b;}
+.ftr1 .div{
+		border-left: 1px solid #333;
+}
+#ftr1 .div .p1div a{
+			text-decoration: none;
+			color: #fff;
+			padding-left: 5px;
+		}
+		#ftr1 .div .cdcn{
+			color: #2aa2d4;
+			font-size: 15px;		
+			box-sizing: border-box;
+			width: 260px;
+			padding-left: 10px;
+		}
+		#ftr1 .div .cdcn .spp{
+			color: #666666;
+		}
+		#ftr1 .cdcn a{
+			color: #f3e039;
+			text-decoration: none;
+		}
+		#ftr1 .cdcn a:hover{
+			color: #fff;
+			transition: 1s;
+		}
+		#ftr1 .div .myicon p{
+			width: 130px;
+			box-sizing: border-box;
+			float: left;
+
+		}
+		#ftr1 .div .myicon p a{
+			color: #fff;
+			transition: all 1s ease-in-out;
+
+		}
+		
+		#ftr1 .div .dangky #myEmail{
+			border:1px solid #333;
+			background: #37383a;
+			outline: none;
+			padding:5px;
+		}
+		#ftr1 .div .dangky #mySubmit{
+			background-color:#FFBC00;
+			color: white;
+			border: 2px solid #FFCB00;
+			padding: 5px;
+			font-size:20px;
+			cursor:pointer;
+			border-radius: 5px;
+			margin-bottom: 15px;
+			margin-left: 5%;
+			width: 60%;
+			text-align: center;
+		}
+		#ftr1 .myicon p a i{
+			padding:3px;
+			
+		}
+		#ftr1 .myicon{
+			padding:unset;
+		}
+		#ftr1 .myicon p a:hover{
+			transition: all 1s ease-in-out;
+			color:#0195DD;
+		}
+		
+		#ftr1 .myicon p:first-child a:hover i{
+			background: #3B5998;
+			color: #fff;
+						
+		}
+		#ftr1 .myicon p:nth-child(2) a:hover i{
+			background: #55ACEE;
+			color: #fff;			
+		}
+		#ftr1 .myicon p:nth-child(3) a:hover i{
+			background: #00AFF0;
+			color: #fff;			
+		}
+		#footer .myicon p:last-child a:hover i{
+			background: #00B489;
+			color: #fff;			
+		}
+		#ftr1 .myicon a i{
+			border: 1px solid transparent;			
+			margin: 0px 5px 0px 0px;
+		}
+		
+		#ftr1 .copy{
+			border-top: 3px solid #333333;
+			color: #fff;
+		}
+		#ftr1 .copy div{
+			padding-top: 30px;
+		}
+		#ftr1 .dangky p{
+			color: #fff;
+			margin-left: 10px;
+		}
+		#ftr1 .dangky #mySubmit:hover {
+			color: red;
+		}
+		#ftr1 .dangky #myEmail{
+			width:70%;
+		}
+		#ftr1 .dangky form{
+			margin-left: 10px;
+		}
+
+

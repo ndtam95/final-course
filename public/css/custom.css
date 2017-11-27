@@ -1,7 +1,11 @@
 .wrapper{
-	width: 350px;
+	width:502px;
 	height: auto;
 	margin: auto;
+}
+.container{
+	width: 500px;
+	margin:auto;
 }
 .flash{
 	color: red;

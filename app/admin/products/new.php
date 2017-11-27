@@ -9,12 +9,18 @@
   </head>
   <body>
   <div class="wrapper">
+    <div class="row">
+      <?php include "../../menucon.php" ?>
+    </div>
+    <script src="../../../public/js/jquery.min.js"></script>
+<script src="../../../public/js/bootstrap.min.js"></script>
+<script src="../../../public/js/bootstrap.bundle.min.js"></script>
     <form method="post" action="create.php">
       <div class="row">
         <i class="flash"><?php if(isset($_SESSION["flash"])) echo $_SESSION["flash"]; ?></i>
       </div>
-      <div>
-        <h1>Ten san pham</h1>
+      <div class="row">
+        <h3>Ten san pham</h3>
       </div>
       <div class="row">
         <label>Ten nguoi dung:</label>

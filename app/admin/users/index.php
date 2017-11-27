@@ -12,15 +12,15 @@
     <script src="../../../public/js/jquery.min.js"></script>
 <script src="../../../public/js/bootstrap.min.js"></script>
 <script src="../../../public/js/bootstrap.bundle.min.js"></script>
-  <h2>Danh sach nguoi dung</h2>
+  <h2 class="bg-success" style="text-align: center;">Danh sách người dùng</h2>
   <table class="table">
     <thead>
       <tr>
         <th>Name</th>
         <th>Email</th>
         <th>Role</th>
-        <th>#</th>
-        <th>#</th>
+        <th>Edit</th>
+        <th>Delete</th>
       </tr>
     </thead>
     <tbody>

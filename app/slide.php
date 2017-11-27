@@ -9,10 +9,10 @@
                 <img class="d-block img-fluid" src="../public/uploads/banner1.png" alt="First slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="../public/uploads/banner2.jpg" alt="Second slide">
+                <img class="d-block img-fluid" src="../public/uploads/banner2.png" alt="Second slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="../public/uploads/banner3.jpg" alt="Third slide">
+                <img class="d-block img-fluid" src="../public/uploads/banner3.png" alt="Third slide">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

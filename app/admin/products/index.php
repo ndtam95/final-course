@@ -17,7 +17,7 @@
     <script src="../../../public/js/jquery.min.js"></script>
 <script src="../../../public/js/bootstrap.min.js"></script>
 <script src="../../../public/js/bootstrap.bundle.min.js"></script>
-  <h2>Danh sách</h2>
+  <h2>Danh sách sản phẩm</h2>
   <div class="row">
     <i class="flash"><?php if(isset($_SESSION["flash"])) echo $_SESSION["flash"]; ?></i>
   </div>
@@ -30,7 +30,7 @@
         <th>So luong</th>
         <th>Gia</th>
         <th>Edit</th>
-        <th>Xoa</th>
+        <th>Delete</th>
       </tr>
     </thead>
     <tbody>
