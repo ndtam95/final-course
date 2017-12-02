@@ -7,12 +7,15 @@
     <link rel="stylesheet" type="text/css" href="../../../public/css/custom.css">
 </head>
 <body>
+   <?php include "../../menucon.php" ?>
+   <br><br><br>
   <div class="container">
-    <?php include "../../menucon.php" ?>
+
+   
     <script src="../../../public/js/jquery.min.js"></script>
 <script src="../../../public/js/bootstrap.min.js"></script>
 <script src="../../../public/js/bootstrap.bundle.min.js"></script>
-  <h2 class="bg-success" style="text-align: center;">Danh sách người dùng</h2>
+  <h2 class="bg-warning" style="text-align: center;color: red">Danh sách người dùng</h2>
   <table class="table">
     <thead>
       <tr>

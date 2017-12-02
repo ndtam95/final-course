@@ -7,13 +7,16 @@
     <link rel="stylesheet" type="text/css" href="../../../public/css/custom.css">
 </head> 
 <body>
+  <?php include "../../menucon.php" ?>
   <div class="container">
-    <?php include "../../menucon.php" ?>
+
+    <br><br><br>
     <script src="../../../public/js/jquery.min.js"></script>
 <script src="../../../public/js/bootstrap.min.js"></script>
 <script src="../../../public/js/bootstrap.bundle.min.js"></script>
-  <h2>Danh sach nguoi dung</h2>
-  <table class="table">
+  <h2 class="bg-warning" style="text-align: center;color: red;padding:5px 0;">Danh sách người dùng</h2>
+  <div class="row">
+    <table class="table">
     <thead>
       <tr>
         <th>Name</th>
@@ -50,6 +53,7 @@
      ?>       
     </tbody>
   </table>
+  </div>
 </div>
 </body>
 </html>

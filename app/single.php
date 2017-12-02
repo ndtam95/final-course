@@ -85,6 +85,61 @@
                    
 
           </div>
+          <div class="row">
+
+     
+
+        <!-- /.col-lg-3 -->
+
+        <div class="col-lg-9">    
+
+          <div class="row">
+
+            <?php 
+
+              if(isset($_GET["product_id"])){
+
+                $product_id = $_GET["product_id"];
+
+                $sql = "select * from products where id=$product_id";
+
+                $result = $conn->query($sql);
+
+                if($result->num_rows > 0){
+
+                $row = $result->fetch_assoc(); ?>
+
+                <div class="card mt-4">
+
+                    <img class="card-img-top img-fluid" src="<?php echo URL_IMAGE.$row['image'];?>" alt="">
+
+                    <div class="card-body">
+
+                      <h3 class="card-title"><?php echo $row["name"]; ?></h3>
+
+                      <h4><?php echo $row["price"]; ?></h4>
+
+                      <p class="card-text"><?php echo $row["description"];?></p>
+
+                      <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9734;</span>
+
+                      4.0 stars
+
+                  </div>
+
+                </div>
+
+                <!-- /.card -->    
+
+            <?php  }       
+
+            }              
+
+            ?>
+
+                   
+
+          </div>
 
           <!-- /.row -->
 

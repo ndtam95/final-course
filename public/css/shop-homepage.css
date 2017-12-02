@@ -13,3 +13,6 @@ body {
     padding-top: 56px;
   }
 }
+.navbar-brand.my-logo.pr-2{
+	color: red;
+}

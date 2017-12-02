@@ -11,3 +11,6 @@
     <!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="../public/css/shop-homepage.css">
     <link rel="stylesheet" type="text/css" href="../public/css/csshp.css">
+    <script src="../../../public/js/jquery.min.js"></script>
+<script src="../../../public/js/bootstrap.min.js"></script>
+<script src="../../../public/js/bootstrap.bundle.min.js"></script>
