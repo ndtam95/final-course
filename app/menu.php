@@ -7,19 +7,29 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.php">Home
+              <a class="nav-link" href="index.php">HOME
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="about.php">ABOUT</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
+              <a class="nav-link" href="#">CONTACTS</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+            <?php if(isset($_SESSION["login"])){ ?>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SETTINGS</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown01">
+                <a class="dropdown-item" href="admin/users/">Admin panel</a>
+                <a class="dropdown-item" href="logout.php">Logout</a>
+              </div>
             </li>
+            <?php }else{ ?>
+              <li class="nav-item">
+                <a class="nav-link" href="login.php">LOGIN</a>
+              </li>
+            <?php } ?>
           </ul>
         </div>
       </div>
