@@ -8,9 +8,9 @@
   </head>
   <body>
   <div class="wrapper">
-   <div class="row">
-      <?php include "../../menucon.php" ?>
-   </div>
+   
+      <?php include "../../menucon.php" ?><br><br>
+   
     <script src="../../../public/js/jquery.min.js"></script>
 <script src="../../../public/js/bootstrap.min.js"></script>
 <script src="../../../public/js/bootstrap.bundle.min.js"></script>
