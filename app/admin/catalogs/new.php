@@ -1,4 +1,5 @@
 <?php session_start(); ?>
+<?php require_once "../../check-login.php"; ?>
 <!DOCTYPE html>
 <html>
   <head>

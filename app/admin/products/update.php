@@ -1,5 +1,6 @@
 <?php session_start(); ?>
 <?php require_once "../../../db/mysql.php"; ?>
+<?php require_once "../../check-login.php"; ?>
 <?php require_once "../../helper/products-helper.php"; ?>
 <?php
   if(isset($_POST["id"]) && isset($_POST["catalog_id"]) && isset($_POST["name"])

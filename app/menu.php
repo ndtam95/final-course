@@ -1,6 +1,6 @@
  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">Web animal</a>
+        <a class="navbar-brand" href="index.php">SOCIAL NETWORK</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -21,7 +21,7 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SETTINGS</a>
               <div class="dropdown-menu" aria-labelledby="dropdown01">
-                <a class="dropdown-item" href="admin/users/">Admin panel</a>
+                <a class="dropdown-item" href="admin/users">Admin panel</a>
                 <a class="dropdown-item" href="logout.php">Logout</a>
               </div>
             </li>

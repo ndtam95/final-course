@@ -1,5 +1,6 @@
 <?php session_start(); ?>
 <?php require_once "../../../db/mysql.php"; ?>
+<?php require_once "../../check-login.php"; ?>
 <?php
   define("URL_IMAGE", "http://localhost:81/php/final-course/public/uploads/");
 ?>
