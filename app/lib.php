@@ -3,7 +3,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Shop Item - Start Bootstrap Template</title>
+    <title>Nguyễn Đăng Tâm</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" type="text/css" href="../public/css/bootstrap.min.css">
