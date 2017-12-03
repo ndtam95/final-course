@@ -4,7 +4,7 @@
 			<div class="col-md-4 col-xs-12 col-md-offset-1"  >
 				<div class="div">
 					<p class="p1div"><a href="">LIÊN HỆ:</a></p>
-					<p class="cdcn"><span class="spp">»</span><b>DiMAS</b> mang đến cho quý khách sự chuyên nghiệp trong dịch vụ.</p>
+					<p class="cdcn"><span class="spp">»</span><b>DIGMA</b> mang đến cho quý khách sự chuyên nghiệp trong dịch vụ.</p>
 					<p class="cdcn"><span class="spp">»</span>TRƯỜNG CDCN HUẾ</p>
 					<p class="cdcn"><span class="spp">»</span>Địa chỉ: 70 Nguyễn Huệ - Thanh Phố Huế</p>
 					<p class="cdcn"><span class="spp">»</span>Điện thoại: 0121 999 999</p>
@@ -32,13 +32,13 @@
 			<div class="col-md-4 col-xs-6 col-md-offset-1">
 				<div class="div">
 					<p class="p1div"><a href="">KẾT NỐI VỚI CHÚNG TÔI:</a></p>
-					<div class="myicon">
+					<!-- <div class="myicon">
 						<p><a href=""><i class="fa fa-facebook"></i>Facebook</a></p>
 						<p ><a href=""><i class="fa fa-skype"></i>Skype</a></p>
 					
 						<p ><a href=""><i class="fa fa-twitter"></i>Twitter</a></p>
 						<p><a href=""><i class="fa fa-instagram"></i>Instagram</a></p>
-					</div>
+					</div> -->
 				
 					<div class="dangky">
 					<p>ĐĂNG KÝ NHẬN BẢN TIN</p>
@@ -60,7 +60,7 @@
 
 		<div class="row copy">
 			<div class="col-md-4" style="padding-left: 30px;">&copy Copyright 2017 by students HUEIC</div>
-			<div class="col-md-8" text-center> CÔNG TY TNHH DiMAS là đơn vị chuyên cung cấp các dịch vụ: Quảng cáo Google Adwords, Quảng các Facebook chuyên nghiệp uy tín, giá thành tốt kèm theo đó là dịch vụ  Thiết kế website chuẩn seo, website được tối ưu và làm thân thiện nhất với các công cụ tìm kiếm hàng đầu Google </div>
+			<div class="col-md-8" text-center>DIGIMA là đơn vị chuyên cung cấp các dịch vụ: Quảng cáo Google Adwords, Quảng các Facebook chuyên nghiệp uy tín, giá thành tốt kèm theo đó là dịch vụ  Thiết kế website chuẩn seo, website được tối ưu và làm thân thiện nhất với các công cụ tìm kiếm hàng đầu Google </div>
 			
 		</div>
       </div>
