@@ -1,6 +1,6 @@
 <?php require_once "../../../db/mysql.php"; ?>
 <?php require_once "../../check-login.php"; ?>
-<?php session_start(); ?>
+
 <!DOCTYPE html>
 <html>
   <head>
