@@ -42,7 +42,7 @@
 		            <br>
 		        	</p>
 		        	<p>
-		            <label style="font-weight: bold">Địa chỉ của bạn</label> <br>
+		            <label style="font-weight: bold">Địa chỉ của bạn</label><br>
 		            <input type="text" id="address"  size="40" placeholder="Địa chỉ của bạn" class="inputlh">
 		            <br>
 		        	</p>

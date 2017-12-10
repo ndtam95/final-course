@@ -3,7 +3,7 @@
         <div class="row ftr1">
 			<div class="col-md-4 col-xs-12 col-md-offset-1"  >
 				<div class="div">
-					<p class="p1div"><a href="">LIÊN HỆ:</a></p>
+					<p class="p1div"><b>LIÊN HỆ</b></p>
 					<p class="cdcn"><span class="spp">»</span><b>DIGMA</b> mang đến cho quý khách sự chuyên nghiệp trong dịch vụ.</p>
 					<p class="cdcn"><span class="spp">»</span>TRƯỜNG CDCN HUẾ</p>
 					<p class="cdcn"><span class="spp">»</span>Địa chỉ: 70 Nguyễn Huệ - Thanh Phố Huế</p>
@@ -13,7 +13,7 @@
 			</div>
 			<div class="col-md-4 col-xs-6 col-md-offset-1">
 				<div class="div">
-					<p class="p1div"><a href="">DỊCH VỤ:</a></p>
+					<p class="p1div"><b>DỊCH VỤ</b></p>
 					<ul class="cdcn">
 						<li><span class="spp">»</span>Chứng chỉ đối tác Google</li>
 						<li><span class="spp">»</span>Quảng cáo minh bạch</li>
@@ -21,7 +21,7 @@
 					</ul>
 				</div>
 				<div class="div">
-					<p class="p1div"><a href="">THIẾT KẾ WEBSITE:</a></p>
+					<p class="p1div"><b>THIẾT KẾ WEBSITE</b></p>
 					<ul class="cdcn">
 						<li><span class="spp">»</span>Thiết kế wesite chuyên nghiệp</li>
 						<li><span class="spp">»</span>Thiết kế website chuẩn SEO</li>
@@ -31,7 +31,7 @@
 			</div>
 			<div class="col-md-4 col-xs-6 col-md-offset-1">
 				<div class="div">
-					<p class="p1div"><a href="">KẾT NỐI VỚI CHÚNG TÔI:</a></p>
+					<p class="p1div"><b>KẾT NỐI VỚI CHÚNG TÔI</b></p>
 					<!-- <div class="myicon">
 						<p><a href=""><i class="fa fa-facebook"></i>Facebook</a></p>
 						<p ><a href=""><i class="fa fa-skype"></i>Skype</a></p>

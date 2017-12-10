@@ -17,6 +17,9 @@
             <li class="nav-item">
               <a class="nav-link" href="contact.php">CONTACTS</a>
             </li>
+             <li class="nav-item">
+              <a class="nav-link" href="catalog.php">CATAGORY</a>
+            </li>
             <?php if(isset($_SESSION["login"])){ ?>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SETTINGS</a>

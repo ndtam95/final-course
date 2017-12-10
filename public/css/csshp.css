@@ -1,7 +1,8 @@
 .ftr1{
-	background: #8b8b8b;}
+	background: #8b8b8b;
+	color: #fff; }
 .ftr1 .div{
-		border-left: 1px solid #333;
+		
 }
 #ftr1 .div .p1div a{
 			text-decoration: none;
@@ -91,24 +92,27 @@
 			margin: 0px 5px 0px 0px;
 		}
 		
-		#ftr1 .copy{
+		 .copy{
 			border-top: 3px solid #333333;
+			background: #8b8b8b;
 			color: #fff;
+			padding-bottom:  20px;
 		}
-		#ftr1 .copy div{
+		 .copy div{
 			padding-top: 30px;
+
 		}
-		#ftr1 .dangky p{
+		 .dangky p{
 			color: #fff;
 			margin-left: 10px;
 		}
-		#ftr1 .dangky #mySubmit:hover {
+		 .dangky #mySubmit:hover {
 			color: red;
 		}
-		#ftr1 .dangky #myEmail{
+		 .dangky #myEmail{
 			width:70%;
 		}
-		#ftr1 .dangky form{
+		 .dangky form{
 			margin-left: 10px;
 		}
 
