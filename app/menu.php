@@ -15,7 +15,7 @@
               <a class="nav-link" href="about.php">ABOUT</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">CONTACTS</a>
+              <a class="nav-link" href="contact.php">CONTACTS</a>
             </li>
             <?php if(isset($_SESSION["login"])){ ?>
             <li class="nav-item dropdown">
