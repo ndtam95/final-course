@@ -22,7 +22,7 @@
          </div>
       <div class="row">
         <!-- /.col-lg-3 -->
-        <div class="col-lg-12 ndchinh my-3">
+        <div class="col-lg-12">
 
           
           
@@ -122,6 +122,9 @@
     <!-- Footer -->
     <?php include "footer.php" ?>
     <!-- Bootstrap core JavaScript -->
+    <script src="../public/js/jquery.min.js"></script>
+<script src="../public/js/bootstrap.min.js"></script>
+<script src="../public/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
