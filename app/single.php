@@ -60,9 +60,9 @@
 
                     <div class="card-body">
 
-                      <h3 class="card-title"><?php echo $row["name"]; ?></h3>
+                      <h3 class="card-title" style="color: blue;"><?php echo $row["name"]; ?></h3>
 
-                      <h4><?php echo $row["price"]; ?></h4>
+                      <h4><?php echo $row["price"]; ?> USD</h4>
 
                       <p class="card-text"><?php echo $row["description"];?></p>
 

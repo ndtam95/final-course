@@ -61,6 +61,7 @@
 				Bước 6 : Implementation : Thực thi tạo sản phẩm, phân phối, lập Media plan, thực thi marketing, truyền thông… <br>
 				Bước 7 : Control : Kiểm soát KPI, chi phí marketing/ doanh thu
 			</p>
+			<img src="../public/uploads/banner2.png">
 			<h3>Về bản chất cơ bản của Marketing mix là 4P và các biến thể của nó</h3>
 			<p>
 				Product : Sản phẩm gì? Bao bì ra sao? <br>

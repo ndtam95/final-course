@@ -1,5 +1,5 @@
-
-<!DOCTYPE html>
+<!-- <?php unset($_SESSION["flash"]); ?>
+ --><!DOCTYPE html>
 <html>
   <head>
     <title>Tao moi user</title>
@@ -53,4 +53,3 @@
   </div>
   </body>
 </html>
-<?php unset($_SESSION["flash"]); ?>

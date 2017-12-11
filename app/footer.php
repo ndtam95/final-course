@@ -1,7 +1,7 @@
-<footer class="py-12">
-      <div class="container">
+<footer class="row py-12">
+     
         <div class="row ftr1">
-			<div class="col-md-4 col-xs-12 col-md-offset-1"  >
+			<div class="col-md-4 col-xs-12"  >
 				<div class="div">
 					<p class="p1div"><b>LIÊN HỆ</b></p>
 					<p class="cdcn"><span class="spp">»</span><b>DIGMA</b> mang đến cho quý khách sự chuyên nghiệp trong dịch vụ.</p>
@@ -11,7 +11,7 @@
 					<p class="cdcn"><span class="spp">»</span>Email:<a href="">hueic@edu.com.vn</a></p>
 				</div>
 			</div>
-			<div class="col-md-4 col-xs-6 col-md-offset-1">
+			<div class="col-md-4 col-xs-6 ">
 				<div class="div">
 					<p class="p1div"><b>DỊCH VỤ</b></p>
 					<ul class="cdcn">
@@ -29,7 +29,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-4 col-xs-6 col-md-offset-1">
+			<div class="col-md-4 col-xs-6 ">
 				<div class="div">
 					<p class="p1div"><b>KẾT NỐI VỚI CHÚNG TÔI</b></p>
 					<!-- <div class="myicon">
@@ -60,9 +60,9 @@
 
 		<div class="row copy">
 			<div class="col-md-4" style="padding-left: 30px;">&copy Copyright 2017 by students HUEIC</div>
-			<div class="col-md-8" text-center>DIGIMA là đơn vị chuyên cung cấp các dịch vụ: Quảng cáo Google Adwords, Quảng các Facebook chuyên nghiệp uy tín, giá thành tốt kèm theo đó là dịch vụ  Thiết kế website chuẩn seo, website được tối ưu và làm thân thiện nhất với các công cụ tìm kiếm hàng đầu Google </div>
+			<div class="col-md-8" text-center><b>DIGIMA </b>là đơn vị chuyên cung cấp các dịch vụ: Quảng cáo Google Adwords, Quảng các Facebook chuyên nghiệp uy tín, giá thành tốt kèm theo đó là dịch vụ  Thiết kế website chuẩn seo, website được tối ưu và làm thân thiện nhất với các công cụ tìm kiếm hàng đầu Google </div>
 			
 		</div>
-      </div>
+    
       <!-- /.container -->
     </footer>
