@@ -1,7 +1,7 @@
-<?php
+<!-- <?php
   define("URL_IMAGE", "http://localhost:81/php/final-course/public/uploads/");
 ?>
-<!DOCTYPE html>
+ --><!DOCTYPE html>
 <html lang="en">
   <head>    
     <?php include "lib.php"; ?>    
@@ -16,7 +16,7 @@
 
       <div class="row">
 
-        <!-- <?php include "slide-left.php" ?> -->
+        
         <!-- /.col-lg-3 -->
         <div class="col-lg-12">
         <?php include "slide.php" ?> 
@@ -29,7 +29,7 @@
       </div>
       <!-- /.row -->
       <div class="row">
-      	<div class="col-md-9 col-xs-9 pull-left">
+      	<div class="col-md-12 col-xs-12 pull-left">
 				<form  class="formlh">
 		        	<p>
 		            <label style="font-weight: bold">Tên của bạn</label><br>

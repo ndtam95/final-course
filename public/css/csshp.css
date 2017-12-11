@@ -1,6 +1,7 @@
 .ftr1{
 	background: #8b8b8b;
-	color: #fff; }
+	color: #fff; 
+padding-top: 10px;}
 .ftr1 .div{
 		
 }
@@ -115,5 +116,85 @@
 		 .dangky form{
 			margin-left: 10px;
 		}
+
+		.formlh .inputlh{
+	outline-color: #00a69b;
+	width: 100%;
+}
+.formlh input.test{
+	width:30%;
+}
+.formlh textarea{
+	width:100%;
+	outline-color: #00a69b;
+}
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+#form_login{
+width:500px;
+margin:50px auto;
+font-family:raleway;
+position: fixed;
+top: -7%;
+right: -15%;
+z-index: 9999999;
+display: block;
+overflow: auto;
+}
+
+span{
+color:red;
+}
+
+#h2{
+	padding:unset;
+	text-align: center;
+	margin-top:unset;
+}
+
+hr{
+border:0;
+border-bottom:1px solid #ccc;
+margin: 10px -40px;
+margin-bottom: 10px;
+}
+#form_layout{
+width:300px;
+float: left;
+border-radius: 10px;
+font-family:raleway;
+border: 2px solid #ccc;
+padding: 10px 20px 25px;
+margin-top: -2px;
+background: #ebebeb;
+overflow: auto;
+}
+#form_layout h2{
+	background: rgba(0, 166, 155, 0.54);
+	border-radius: 10px;
+	color: rgba(31, 24, 123, 0.9);
+}
+ 
+input[type=text],input[type=password],#state{
+width:99.5%;
+padding: 2px;
+margin-top: 2px;
+border: 1px solid #ccc;
+padding-left: 5px;
+font-size: 14px;
+font-family:raleway;
+} 
+
+input[type=submit]{
+width: 100%;
+background-color:#FFBC00;
+color: white;
+border: 2px solid #FFCB00;
+padding: 5px;
+font-size:16px;
+cursor:pointer;
+border-radius: 5px;
+margin:10px auto;
+}
 
 
